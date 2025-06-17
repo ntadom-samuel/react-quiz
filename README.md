@@ -22,11 +22,7 @@ An application that let's uses take a react quiz and keep track of their scores.
 - [x] Interactive 
 
 ## Video
-<div>
-    <a href="https://www.loom.com/share/0eb1d53acd9e4780a7fc19818ad1ce62">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0eb1d53acd9e4780a7fc19818ad1ce62-218937ca3df9f7fb-full-play.gif">
-    </a>
-  </div>
+<div style="position: relative; padding-bottom: 62.57242178447277%; height: 0;"><iframe src="https://www.loom.com/embed/56361901419546a6a06a69b035b98522?sid=5089f223-74e5-4356-b50a-0cd3d384eddc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
   
 ## Notes
 All credits to <a href="https://www.udemy.com/course/the-ultimate-react-course/">The Ultimate React Course 2024: React, Next.js, Redux & More
